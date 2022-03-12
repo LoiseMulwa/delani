@@ -1,0 +1,14 @@
+.col-md{
+    background-image: url("images/background/h_img.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 630px;
+    background-repeat: no-repeat;
+}
+.par{
+    margin-left: 23%;
+} 
+/* .amazing{
+    margin-right: 30%;
+} */
+
