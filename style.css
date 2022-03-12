@@ -2,7 +2,7 @@
     background-image: url("images/background/h_img.jpg");
     background-position: center;
     background-size: cover;
-    height: 630px;
+    height: 600px;
     background-repeat: no-repeat;
 }
 .par{
@@ -16,6 +16,16 @@
 }
 .services h4{
     margin-top: 30px;
+}
+.logo{
+    padding-top: 85px;
+}
+.last{
+    background-image: url("/images/background/c_image.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    
 }
 
 
