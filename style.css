@@ -10,6 +10,9 @@
 } 
 .services{
     background-image: url("images/background/s_image.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 300px;
 }
 
 
