@@ -27,5 +27,32 @@
     height: 400px;
     
 }
+#name{
+    width: 70vh;
+    margin-left: 100px;
+    background-color: transparent;
+    border:1px solid white;
+}
+#email{
+    width: 70vh;
+    margin-right: 600cm;
+    background-color: transparent;
+    border:1px solid white;
+}
+#mail{
+    padding-top: 20px;
+}
+#text{
+    background-color: transparent;
+    height: 35vh;
+    width: 150vh;
+    border:1px solid white;
+}
+::-webkit-input-placeholder{
+    color: white;
+}
+*{
+    overflow-x: hidden;
+}
 
 
