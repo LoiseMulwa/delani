@@ -54,5 +54,8 @@
 *{
     overflow-x: hidden;
 }
+.we-do p{
+    display: none;
 
+}
 
