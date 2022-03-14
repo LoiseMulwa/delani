@@ -78,8 +78,110 @@
     justify-content: space-between;
     margin-top: 0.5cm;
 }
-#ont{
-    color: red;
+.num11{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+    font-weight: bolder;
+    
+
 }
+.num22{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num33{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num44{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num55{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num66{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num77{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+.num88{
+    display: none;
+    color: white;
+    position: relative;
+    top: -50%;
+    border: 2px solid white;
+    height: 1cm;
+    width: 70%;
+    left: 15%;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
 
 
