@@ -21,7 +21,7 @@
     padding-top: 85px;
 }
 .last{
-    background-image: url("/images/background/c_image.jpg");
+    background-image: url("images/background/c_image.jpg");
     background-position: center;
     background-size: cover;
     height: 410px;
