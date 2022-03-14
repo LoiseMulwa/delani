@@ -36,7 +36,7 @@ $(".num33").hide();
 $("#num4").mouseover(function () {
 $(".num44").show();
 }).mouseout(function () {
-$(".num11").hide();
+$(".num44").hide();
 });
 
 $("#num5").mouseover(function () {
