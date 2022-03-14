@@ -36,13 +36,8 @@
 * CSS - which was used to style the pages incuding the left aside navigation bar.
 * JAVASCRIPT-Makes the website responsive.
 
-## BDD
-
-
-
-
 ## LIVE LINK
-* Click this link to view my website-  
+* Click this link to view my website-https://loisemulwa.github.io/delani/
 
 
 
